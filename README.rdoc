@@ -1,6 +1,7 @@
 = ruby-tktray
 
-Description goes here.
+I want the ability to have my Pratt[http://github.com/frogstarr78/Pratt.git] project
+sit in the system tray because it will make it much more accessible and therefore useful.
 
 == Note on Patches/Pull Requests
  
@@ -14,4 +15,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Scott Noel-Hemming. See LICENSE for details.
+Copyright (c) 2010 Frogstarr78 Software. See LICENSE for details.

@@ -1,6 +1,6 @@
 = ruby-tktray
 
-I want the ability to have my Pratt[http://github.com/frogstarr78/Pratt.git] project
+I want the ability to have my Pratt[http://github.com/frogstarr78/Pratt] project
 sit in the system tray because it will make it much more accessible and therefore useful.
 
 == Note on Patches/Pull Requests
